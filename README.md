@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abduino
+- 👋 Hi, I’m Abdurehman Redi
 - 👀 I’m interested in Smart Irrigation and Smart Environmental Monitoring 
 - 🌱 I’m currently learning NextJS and NestJS
 - 💞️ I’m looking to collaborate on Environmental protection projects 
