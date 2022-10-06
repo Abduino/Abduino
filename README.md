@@ -1,5 +1,5 @@
 
-<img width=600 height=250 src="https://www.behance.net/gallery/105775659/creative-coding-explorations"/>
+<img width=600 height=250 src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA "/>
 <ul>
   <li>👋 Hi, I’m Abdurehman Redi</li>
   <li>👀 I’m interested in Smart Irrigation and Smart Environmental Monitoring</li>
