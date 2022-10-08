@@ -1,3 +1,4 @@
+<img width=500 height=220 src="https://www.qqpr.com/ascii/img/ascii-1013.gif"/>
 ## Hi there 👋, my name is Abdurehman Redi
 <ul>
   <li>👀 I’m interested in Smart Irrigation and Smart Environmental Monitoring</li>
@@ -15,7 +16,7 @@
 
 
 
-<img width=600 height=250 src="https://images.app.goo.gl/XRRDcSbEL6apj2KEA"/>
+
 
 
 
