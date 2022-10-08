@@ -1,11 +1,18 @@
 <img width=500 height=220 src="https://www.qqpr.com/ascii/img/ascii-1013.gif"/>
-## Hi there 👋, my name is Abdurehman Redi
+
+<table>
+  <tr>
+    <td>
+      <h2>Hi there 👋, my name is Abdurehman Redi</h2>
 <ul>
   <li>👀 I’m interested in Smart Irrigation and Smart Environmental Monitoring</li>
   <li>🌱 I’m currently learning NextJS and NestJS</li>
   <li>💞️ I’m looking to collaborate on Environmental protection projects </li>
   <li>📫 How to reach me abdrehmanredi0@gmail.com / https://sites.google.com/view/abdroid</li> 
 </ul>
+  </tr>
+</table>
+
 
 
 
